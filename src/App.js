@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import menuImage from './menu2.jpg'
 
